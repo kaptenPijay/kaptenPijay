@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Muhammad Zahran Yudha.
 
 An Fullstack Web Developer who loves to create and share projects about web technology! I've enjoyed JavaScript, and php and make it the main language in creating a project.
-this is my new github account, my old account is <a href="https://github.com/captainPijay" target="_blank">captainPijay</a>
+this is my new github account, my old account is <a href="https://github.com/captainPijay" target="_blank">captainPijay</a>.
 I am currently pursuing a master's degree at the Dinamika Bangsa University
 
 - 🌱 I’m currently working as a fullstack web developer at Perdana Karya Teknologi (PKIT)
