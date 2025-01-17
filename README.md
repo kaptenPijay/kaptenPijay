@@ -12,7 +12,7 @@ I am currently pursuing a master's degree at the Dinamika Bangsa University
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://react.dev/"><img align="left" alt="React" title="React" width="21px" src="https://www.iconfinder.com/icons/1174949/js_react_js_logo_react_react_native_icon" /></a>
+  <a href="https://react.dev/"><img align="left" alt="React" title="React" width="21px" src="https://stablediffusionweb.com/prompts/react-js-logo" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a>
   <br>
