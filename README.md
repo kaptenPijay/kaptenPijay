@@ -6,7 +6,7 @@ I am currently pursuing a master's degree at the Dinamika Bangsa University
 
 - 🌱 I’m currently working as a fullstack web developer at Perdana Karya Teknologi (PKIT)
 - 💬 Feel free to ask me about web development, JavaScript, Laravel, PHP etc.
-- 📫 How to reach me: muhammadzahran02@gmail.com
+- 📫 How to reach me: muhammadzahran0205@gmail.com
 - ⚡ Want to know more about myself ?<a href="https://muhammad-zahran.vercel.app/" target="_blank"> Click Here</a>
 
 ### Tech Stack
