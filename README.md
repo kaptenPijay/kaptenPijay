@@ -4,7 +4,7 @@ An Fullstack Web Developer who loves to create and share projects about web tech
 this is my new github account, my old account is <a href="https://github.com/captainPijay" target="_blank">captainPijay</a>.
 I am currently pursuing a master's degree at the Dinamika Bangsa University
 
-- 🌱 I’m currently working as a fullstack web developer at Perdana Karya Teknologi (PKIT)
+- 🌱 I’m currently working as a Freelance fullstack web developer
 - 💬 Feel free to ask me about web development, JavaScript, Laravel, PHP etc.
 - 📫 How to reach me: muhammadzahran0205@gmail.com
 - ⚡ Want to know more about myself ?<a href="https://muhammad-zahran.vercel.app/" target="_blank"> Click Here</a>
